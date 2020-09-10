@@ -17,7 +17,7 @@ $ gcc fileEncrypt.c -o xor
 
 ### usage ###
 
-```bash
+```
 $ ./xor <filename> <password>
 ```
 
